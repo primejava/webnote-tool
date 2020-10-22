@@ -1,0 +1,5 @@
+sqlite3
+json
+webbrowser
+PyQt5
+pyperclip
